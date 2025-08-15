@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah munawar khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah munawar khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-munawar-khan-175a6b322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-munawar-khan-175a6b322" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdullahk4503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullahk4503" height="30" width="40" /></a>
 </p>
 
