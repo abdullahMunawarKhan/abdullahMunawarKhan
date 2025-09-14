@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdullah Munawar Khan</h1>
-<h3 align="center">A passionate Web Developer and Tech Enthusiastic Student of Second year of computer engineering</h3>
+<h3 align="center">A passionate Web Developer and Tech Enthusiastic Student of Second year of Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmunawarkhan&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmunawarkhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahmunawarkhan" alt="abdullahmunawarkhan" /></a> </p>
 
 - I’m currently enrolled in **Computer Engineering (BE)**
+- Currenlty i have completed **Full stack Web develpment**
+- 🌱 I’m currently learning **Cloud computing,App development and ThreeJS**
 
-- 🌱 I’m currently learning **Cloud computing and App development**
-
-- I’m currently working on **1.ProPath - A dynamic personlised Career Guider**
-
+- I’m currently working on:
+    **1.ProPath - A dynamic personlised Career Guider**
+    **2.ScopeBrush - A E- Commerce Website for artworks**
 - 📫 How to reach me **abdullahk4503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
