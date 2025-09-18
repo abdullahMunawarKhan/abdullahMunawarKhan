@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Cloud computing,App development and ThreeJS**
 
 - I’m currently working on:
-    **1.ProPath - A dynamic personlised Career Guider**
+    **1.ProPath - A dynamic personlised Career Guider**<br/>
     **2.ScopeBrush - A E- Commerce Website for artworks**
 - 📫 How to reach me **abdullahk4503@gmail.com**
 
