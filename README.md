@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahmunawarkhan&show_icons=true&locale=en&layout=compact" alt="abdullahmunawarkhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=abdullahmunawarkhan" alt="abdullahmunawarkhan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=abdullahmunawarkhan" alt="abdullahmunawarkhan" /></p> -->
