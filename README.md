@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Web and App Developer and Tech Enthusiastic Student of Second year of Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmunawarkhan&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmunawarkhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahmunawarkhan" alt="abdullahmunawarkhan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahMunawarKhan" alt="Abdullah Munawar Khan" /></a> </p>
 
 - I’m currently enrolled in **Computer Engineering (BE)**
 - Currenlty i have completed **Full stack Web develpment**
