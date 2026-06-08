@@ -32,6 +32,7 @@
 
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahMunawarKhan)](https://git.io/streak-stats) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahMunawarKhan&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahMunawarKhan&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahMunawarKhan&theme=tokyonight)
