@@ -95,21 +95,18 @@ I enjoy turning ideas into real-world products through **full-stack development,
   <img width="70%" src="https://streak-stats.demolab.com?user=abdullahMunawarKhan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 📈 Contribution Graph
-
+### 📅 Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/6366f1/abdullahMunawarKhan" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahMunawarKhan&theme=github-compact&color=3DDC84&bg_color=000000&hide_border=true" width="90%" />
 </p>
-
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/abdullahMunawarKhan">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abdullahMunawarKhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Achievements" width="100%" />
-  </a>
-</p>
+![](https://github-trophies.vercel.app/?username=abdullahMunawarKhan&theme=terminal&no-frame=false&no-bg=true&margin-w=4)
+
+
+[![](https://visitcount.itsvg.in/api?id=abdullahMunawarKhan&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ---
 
