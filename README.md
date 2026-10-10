@@ -98,15 +98,17 @@ I enjoy turning ideas into real-world products through **full-stack development,
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahMunawarKhan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/6366f1/abdullahMunawarKhan" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahMunawarKhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  <a href="https://github.com/abdullahMunawarKhan">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=abdullahMunawarKhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Achievements" width="100%" />
+  </a>
 </p>
 
 ---
