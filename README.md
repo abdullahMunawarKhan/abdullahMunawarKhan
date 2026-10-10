@@ -95,9 +95,10 @@ I enjoy turning ideas into real-world products through **full-stack development,
   <img width="70%" src="https://streak-stats.demolab.com?user=abdullahMunawarKhan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-### 📅 Contribution Graph
+### 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahMunawarKhan&theme=github-compact&color=3DDC84&bg_color=000000&hide_border=true" width="90%" />
+  <img src="https://ghchart.rshah.org/6366f1/abdullahMunawarKhan" alt="GitHub Contribution Graph" width="100%" />
 </p>
 ---
 
